@@ -16,3 +16,6 @@ Instalador de Rstudio para windows: https://download1.rstudio.org/electron/windo
 
 Instalador de Rstudio para mac: https://download1.rstudio.org/electron/macos/RStudio-2023.06.2-561.dmg
 
+Videos
+En este video se muestra lo pasos a seguir para instalar R en windows 10:  https://youtu.be/uM3ZKy5SPV0
+En este video se muestra lo pasos a seguir para instalar R en mac: https://youtu.be/tXEQHgVUABY
